@@ -1,25 +1,12 @@
 <!-- 🌸 GitHub Profile README for Pjadeyy (Prixane) -->
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Pjadeyy">Jade 🌻</a></h1>
-<h3 align="center">💻 Student Developer | PHP & Web Enthusiast | Dreamer ✨</h3>
+
 
 ---
 
-### 🌷 About Me
-- 🎓 IT student passionate about web development and system design  
-- 💡 Building projects that solve real problems — like my **Boarding House Rent Billing Management System (BHBMS)**  
+### 🌷 About Me  
 - 🧠 Currently learning **PHP**, **JavaScript**, and **MySQL**  
-- ☕ Loves clean code, calm aesthetics, and late-night coding  
-
----
-
-### 🏠 Featured Project: [BHBMS](https://github.com/Pjadeyy/BHBMS)
-> **Boarding House Rent Billing Management System**  
-> Helps automate rent tracking, send payment reminders, and generate reports easily.  
-> Built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
-
-📦 *Status:* Public  
-⭐ *Stars:* `3` 🍴 *Forks:* `1`
 
 ---
 
@@ -37,14 +24,6 @@
 
 ---
 
-### 🌸 Connect With Me
-<p align="center">
-  <a href="https://github.com/Pjadeyy">
-    <img src="https://img.shields.io/badge/GitHub-Pjadeyy-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
 
 ### 🌿 GitHub Stats
 <p align="center">
